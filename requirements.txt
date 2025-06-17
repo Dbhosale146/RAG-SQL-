@@ -4,3 +4,4 @@ pymysql
 python-dotenv
 plotly
 SpeechRecognition
+psycopg2-binary
